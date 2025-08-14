@@ -1,6 +1,6 @@
 body {
 
-  background-image:url('https://api.deepai.org/job-view-file/8be79391-e934-45e3-9450-6040f59d55c5/outputs/output.jpg');
+  background-image:url("output.jpg");
     background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
